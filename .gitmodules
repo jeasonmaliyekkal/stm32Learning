@@ -1,3 +1,6 @@
 [submodule "ledDriver"]
 	path = ledDriver
 	url = https://github.com/jeasonmaliyekkal/ledDriver.git
+[submodule "uartDriver"]
+	path = uartDriver
+	url = https://github.com/jeasonmaliyekkal/uartDriver.git
