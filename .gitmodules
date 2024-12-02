@@ -4,3 +4,6 @@
 [submodule "uartDriver"]
 	path = uartDriver
 	url = https://github.com/jeasonmaliyekkal/uartDriver.git
+[submodule "timebase"]
+	path = timebase
+	url = https://github.com/jeasonmaliyekkal/timebase.git
